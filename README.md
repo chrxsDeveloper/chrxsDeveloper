@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @chrxsDeveloper
+- 👀 I’m interested in Spring Boot, Angular and iOS-, PadOS- and MacOS-Development
+- 🌱 I’m currently learning webdevelopment
+- 📫 How to reach me: Send me a message on instagram @chrxs_b4ch
